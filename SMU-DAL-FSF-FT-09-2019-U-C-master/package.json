@@ -1,0 +1,16 @@
+{
+  "name": "SMU-DAL-FSF-FT-09-2019-U-C",
+  "version": "1.0.0",
+  "description": "## Course Requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@smu.bootcampcontent.com:SMU-Coding-Bootcamp/SMU-DAL-FSF-FT-09-2019-U-C.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
